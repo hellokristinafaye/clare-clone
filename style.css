@@ -67,3 +67,12 @@
     font-size: 15px;
     text-decoration: none;
 }
+
+.CTA-spring {
+    display: flex;
+}
+.left {
+}
+.CTA-spring .right {
+    width: 50%;
+}
