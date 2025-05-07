@@ -107,4 +107,15 @@
 
 .banner-grey {
     background: var(--light-grey);
+    text-align: center;
+    padding: 60px;
+}
+.banner-grey p {
+    font-size: 15px;
+    letter-spacing: 0.2rem;
+}
+.banner-grey h2 {
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+    padding: 20px 400px;
 }
