@@ -7,6 +7,7 @@ Technologies Used:
 - HTML
 - CSS
 - Google Fonts
+- Material Icons
 
 Features:
 
