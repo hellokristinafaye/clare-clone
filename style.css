@@ -9,5 +9,8 @@
 }
 .offer {
     color: white;
+    background: var(--dark-color);
+    display: flex;
+    justify-content: space-around;
 }
 
