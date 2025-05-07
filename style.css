@@ -24,3 +24,8 @@
 .navbar {
     display: flex;
 }
+
+.nav-link {
+    color: black;
+    text-decoration: none;
+}
