@@ -25,6 +25,9 @@
     display: flex;
     justify-content: space-between;
     padding: 20px 60px;
+    position: sticky;
+    top: 0;
+    background: white;
 }
 .logo {
     font-weight: 500;
