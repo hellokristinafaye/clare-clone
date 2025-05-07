@@ -11,9 +11,9 @@
     color: white;
     background: var(--dark-color);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 5px;
+    padding: 5px 60px;
 }
 .offer-text {
     font-size: 14px;
@@ -23,6 +23,8 @@
 }
 .navbar {
     display: flex;
+    justify-content: space-between;
+    padding: 20px 60px;
 }
 
 .nav-link {
