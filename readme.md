@@ -12,6 +12,8 @@ Features:
 
 Notes:
 
+- logged 1 hr on the first day, will continue later.
+
 Challenges:
 
 Future Development:
