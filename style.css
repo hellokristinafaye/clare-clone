@@ -72,7 +72,7 @@
     display: flex;
 }
 .left-container {
-    padding: 200px 100px;
+    padding: 300px 100px;
 }
 .left-container h1 {
     font-size: 60px;
@@ -80,7 +80,7 @@
 }
 .left-container p {
     font-family:'Times New Roman', Times, serif;
-    padding: 30px 0;
+    padding-top: 40px;
 }
 .left-container button {
     font-size: 12px;
