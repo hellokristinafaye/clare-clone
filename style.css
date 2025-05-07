@@ -12,5 +12,12 @@
     background: var(--dark-color);
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding: 5px;
 }
-
+.offer-text {
+    font-size: 14px;
+}
+.offer-text a {
+    color: white;
+}
