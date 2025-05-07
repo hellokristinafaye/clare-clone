@@ -74,6 +74,10 @@
 .left-container {
     padding: 200px 100px;
 }
+.left-container h1 {
+    font-size: 60px;
+    font-weight:500;
+}
 .CTA-spring .right {
     width: 50%;
     height: 1vh;
