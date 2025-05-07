@@ -74,8 +74,12 @@
 .CTA-spring {
     display: flex;
 }
+.left {
+    width: 49%;
+}
 .left-container {
     padding: 300px 100px;
+
 }
 .left-container h1 {
     font-size: 60px;
@@ -95,7 +99,7 @@
 
 }
 
-.CTA-spring .right {
-    width: 50%;
-    height: 1vh;
+.CTA-spring .right{
+    width: .5vw;
+    /* height: 1vh; */
 }
