@@ -6,6 +6,7 @@
     --highlight-color-1: #F5CB5B;
     --button-color-1: #F5BE17;
     --highlight-color-2: #FEF8F0;
+    --light-grey: #F5F9FA;
 }
 .offer {
     color: white;
@@ -102,4 +103,8 @@
 .CTA-spring .right{
     width: .5vw;
     /* height: 1vh; */
+}
+
+.banner-grey {
+    background: var(--light-grey);
 }
