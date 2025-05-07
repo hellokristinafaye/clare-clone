@@ -21,3 +21,6 @@
 .offer-text a {
     color: white;
 }
+.navbar {
+    display: flex;
+}
