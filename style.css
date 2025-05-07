@@ -71,8 +71,10 @@
 .CTA-spring {
     display: flex;
 }
-.left {
+.left-container {
+    padding: 200px 100px;
 }
 .CTA-spring .right {
     width: 50%;
+    height: 1vh;
 }
