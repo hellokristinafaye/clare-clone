@@ -132,6 +132,9 @@
     margin: 20px;
     display: flex;
 }
+.info-text-box {
+    padding: 10px;
+}
 .info-box h2 {
     font-weight: 350;
     font-size: 25px;
