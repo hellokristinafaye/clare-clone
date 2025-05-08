@@ -128,6 +128,8 @@
 }
 .info-box {
     background: var(--highlight-color-2);
+    padding: 20px;
+    margin: 20px;
 }
 .info-box h2 {
     font-weight: 350;
@@ -136,4 +138,5 @@
 .info-box p {
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
 }
