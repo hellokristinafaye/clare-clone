@@ -126,6 +126,9 @@
 .left-info {
     flex-basis: 45%;
 }
+.left-info-container {
+    margin: 50px 50px 50px 100px;
+}
 .info-box {
     background: var(--highlight-color-2);
     padding: 20px;
@@ -152,7 +155,5 @@
     margin-top: 10px;
 }
 
-/* .left-info-container {
-    display: flex;
-} */
+
 
