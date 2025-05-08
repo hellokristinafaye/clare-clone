@@ -122,6 +122,7 @@
 
 .info {
     display: flex;
+    margin: 50px;
 }
 .left-info {
     flex-basis: 45%;
