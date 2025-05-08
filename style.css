@@ -173,6 +173,11 @@
     background: grey;
     width: 700px;
     height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-
+.img-placeholder-caption {
+    color: white;
+}
