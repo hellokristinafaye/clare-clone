@@ -132,6 +132,13 @@
     margin: 20px;
     display: flex;
 }
+.icon {
+    margin: 10px;
+    color: var(--button-color-1);
+}
+.icon span {
+    font-size: 30px;
+}
 .info-text-box {
     padding: 10px;
 }
