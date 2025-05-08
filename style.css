@@ -129,3 +129,7 @@
 .info-box {
     background: var(--highlight-color-2);
 }
+.info-box h2 {
+    font-weight: 350;
+    font-size: 25px;
+}
