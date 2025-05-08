@@ -133,3 +133,7 @@
     font-weight: 350;
     font-size: 25px;
 }
+.info-box p {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
