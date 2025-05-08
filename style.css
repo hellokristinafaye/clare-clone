@@ -119,3 +119,13 @@
     letter-spacing: 0.1rem;
     padding: 20px 400px;
 }
+
+.info {
+    display: flex;
+}
+.left-info {
+    flex-basis: 45%;
+}
+.info-box {
+    background: var(--highlight-color-2);
+}
