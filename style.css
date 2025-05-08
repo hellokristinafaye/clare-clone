@@ -130,6 +130,7 @@
     background: var(--highlight-color-2);
     padding: 20px;
     margin: 20px;
+    display: flex;
 }
 .info-box h2 {
     font-weight: 350;
@@ -141,4 +142,7 @@
     margin-top: 10px;
 }
 
+/* .left-info-container {
+    display: flex;
+} */
 
