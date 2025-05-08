@@ -128,7 +128,7 @@
     flex-basis: 45%;
 }
 .left-info-container {
-    margin: 50px 50px 50px 100px;
+    margin: 50px 0px 50px 50px;
 }
 .info-box {
     background: var(--highlight-color-2);
