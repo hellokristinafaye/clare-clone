@@ -181,3 +181,9 @@
 .img-placeholder-caption {
     color: white;
 }
+
+.scroll-text {
+    background: var(--dark-color);
+    color: var(--light-grey);
+    padding: 20px 0;
+}
