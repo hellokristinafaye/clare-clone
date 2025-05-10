@@ -274,3 +274,9 @@
     margin-top: 25px;
     color: grey;
 }
+
+.fa-star {
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: var(--dark-color);
+}
