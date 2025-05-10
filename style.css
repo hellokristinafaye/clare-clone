@@ -196,3 +196,8 @@
     font-size: 10px;
     padding-top: 10px;
 }
+
+.testimonial-nav {
+    display: flex;
+    justify-content: space-between;
+}
