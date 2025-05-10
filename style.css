@@ -263,13 +263,14 @@
 }
 
 .testimonial-text {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia;
+    font-weight: 100;
 }
 .right-card-text-container {
     padding: 200px 40px;
 }
 .testimonital-author {
     font-size: 18px;
-    margin-top: 5px;
+    margin-top: 25px;
     color: grey;
 }
