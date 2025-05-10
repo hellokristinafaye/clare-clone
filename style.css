@@ -259,4 +259,13 @@
     height: 600px;
     width: 675px;
     background: var(--card-color-2);
+    text-align: center;
+}
+
+.testimonial-text {
+    font-family: 'Times New Roman', Times, serif;
+}
+.right-card-text-container {
+    padding: 200px 40px;
+    /* width: 80%; */
 }
