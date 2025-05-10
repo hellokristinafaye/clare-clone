@@ -214,4 +214,6 @@
 }
 .text-container a {
     margin-left: 20px;
+    color: black;
+    font-size: 14px;
 }
