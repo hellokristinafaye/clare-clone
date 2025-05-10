@@ -231,4 +231,8 @@
     border: none;
     color: var(--dark-color);
     margin-left: 15px;
+    cursor: pointer;
+}
+.nav-arrows:hover {
+    background: #397E82;
 }
