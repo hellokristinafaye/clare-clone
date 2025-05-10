@@ -285,6 +285,12 @@
 .picks {
     padding: 60px 150px;
 }
+.gallery {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    padding: 25px 0;
+}
 
 .img-spaceholder {
     height: 575px;
@@ -295,4 +301,9 @@
     color: #133A08;
     text-align: center;
     padding: 250px 0;
+}
+.img-placeholder-half {
+    height: 575px;
+    width: 140px;
+    background: var(--img-placeholder-1);
 }
