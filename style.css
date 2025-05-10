@@ -252,11 +252,11 @@
 }
 .left-card {
     height: 600px;
-    width: 650px;
+    width: 675px;
     background: var(--card-color-1);
 }
 .right-card {
     height: 600px;
-    width: 650px;
+    width: 675px;
     background: var(--card-color-2);
 }
