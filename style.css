@@ -10,6 +10,7 @@
     --button-color-2: #8AC7CB;
     --card-color-1: #3C5B8A;
     --card-color-2: #F5F9FA;
+    --img-placeholder-1: #C4C4C0;
 }
 .offer {
     color: white;
@@ -283,4 +284,15 @@
 
 .picks {
     padding: 60px 150px;
+}
+
+.img-spaceholder {
+    height: 575px;
+    width: 600px;
+    background: var(--img-placeholder-1);
+}
+.img-spaceholder p {
+    color: #133A08;
+    text-align: center;
+    padding: 250px 0;
 }
