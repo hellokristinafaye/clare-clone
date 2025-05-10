@@ -7,6 +7,7 @@
     --button-color-1: #F5BE17;
     --highlight-color-2: #FEF8F0;
     --light-grey: #F5F9FA;
+    --button-color-2: #8AC7CB;
 }
 .offer {
     color: white;
@@ -220,4 +221,14 @@
 }
 .text-container a:hover {
     text-decoration-color: var(--dark-color);
+}
+
+.nav-arrows {
+    background: var(--button-color-2);
+    border-radius: 50%;
+    height: 48px;
+    width: 48px;
+    border: none;
+    color: var(--dark-color);
+    margin-left: 15px;
 }
