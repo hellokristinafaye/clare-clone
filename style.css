@@ -216,4 +216,8 @@
     margin-left: 20px;
     color: black;
     font-size: 14px;
+    text-decoration-color: var(--button-color-1);
+}
+.text-container a:hover {
+    text-decoration-color: var(--dark-color);
 }
