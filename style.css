@@ -247,9 +247,16 @@
 
 .card-container {
     margin-top:35px;
+    display: flex;
+    justify-content: space-between;
 }
 .left-card {
     height: 600px;
     width: 650px;
     background: var(--card-color-1);
+}
+.right-card {
+    height: 600px;
+    width: 650px;
+    background: var(--card-color-2);
 }
