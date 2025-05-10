@@ -267,5 +267,9 @@
 }
 .right-card-text-container {
     padding: 200px 40px;
-    /* width: 80%; */
+}
+.testimonital-author {
+    font-size: 18px;
+    margin-top: 5px;
+    color: grey;
 }
