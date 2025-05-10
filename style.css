@@ -203,3 +203,15 @@
     display: flex;
     justify-content: space-between;
 }
+.text-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-container h2 {
+    font-size: 30px;
+    font-weight: 400;
+}
+.text-container a {
+    margin-left: 20px;
+}
