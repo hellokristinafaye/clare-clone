@@ -196,7 +196,9 @@
     font-size: 10px;
     padding-top: 10px;
 }
-
+.testimonial {
+    padding: 60px 150px;
+}
 .testimonial-nav {
     display: flex;
     justify-content: space-between;
