@@ -236,3 +236,9 @@
 .nav-arrows:hover {
     background: #397E82;
 }
+.arrow-left {
+    opacity: .2;
+}
+.arrow-left:hover {
+    opacity: 1;
+}
