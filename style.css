@@ -336,6 +336,7 @@
     font-size: 16px;
     width: 250px;
     font-weight: 300;
+    height: 65px;
 }
 .advice-right {
     flex-basis: 45%;
@@ -345,7 +346,7 @@
     /* margin:100px 50px; */
     padding: 70px;
     width: 50%;
-    margin: 100px 0;
+    margin: 150px 0;
 }
 .advice-title {
     font-weight: 350;
