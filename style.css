@@ -343,8 +343,9 @@
 .advice-container {
     background: white;
     /* margin:100px 50px; */
-    padding: 80px;
-    width: 40%;
+    padding: 70px;
+    width: 50%;
+    margin: 100px 0;
 }
 .advice-title {
     font-weight: 350;
@@ -354,6 +355,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 300;
     color: var(--advice-bg);
+    margin-top: 40px;
 }
 .advice-button {
     color: white;
@@ -361,4 +363,5 @@
     font-size: 16px;
     padding: 18px 40px;
     border-radius: 30px;
+    margin-top: 40px;
 }
