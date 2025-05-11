@@ -340,3 +340,9 @@
 .advice-right {
     flex-basis: 45%;
 }
+.advice-container {
+    background: white;
+    /* margin:100px 50px; */
+    padding: 80px;
+    width: 40%;
+}
