@@ -355,3 +355,10 @@
     font-weight: 300;
     color: var(--advice-bg);
 }
+.advice-button {
+    color: white;
+    background: var(--dark-color);
+    font-size: 16px;
+    padding: 18px 40px;
+    border-radius: 30px;
+}
