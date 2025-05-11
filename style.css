@@ -349,3 +349,9 @@
 .advice-title {
     font-weight: 350;
 }
+.advice-sub-title {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: var(--advice-bg);
+}
