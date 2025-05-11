@@ -315,6 +315,15 @@
 }
 .advice-left {
     display: flex;
-    background: white;
-    margin: 30px;
+    /* background: white; */
+    margin: 100px 100px 500px 200px;
+}
+.initial {
+    font-size: 30px;
+    color: white;
+    background: var(--button-color-1);
+    border-radius: 50%;
+    height: 40px;
+    width: 80px;
+    text-align: center;
 }
