@@ -375,6 +375,7 @@
 }
 .brands-text {
     font-size: 12px;
+    letter-spacing: .1rem;
 }
 .brands-container {
     font-size: 60px;
