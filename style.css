@@ -313,3 +313,8 @@
     display: flex;
     background: var(--advice-bg);
 }
+.advice-left {
+    display: flex;
+    background: white;
+    margin: 30px;
+}
