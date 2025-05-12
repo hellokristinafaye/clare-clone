@@ -387,9 +387,9 @@
 
 .inspo-nav {
     padding: 100px;
-
+    display: flex;
 }
 .inspo-text-container {
     display: block;
-    text-align:
+    text-align: center;
 }
