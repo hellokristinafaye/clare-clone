@@ -404,14 +404,14 @@
 
 .inspo-gallery {
     display: flex;
-    margin: 0 150px;
+    margin: 0 100px;
     justify-content: space-between;
 }
 .inspo-gallery-left {
     margin: 0 px;
 }
 .mini-inspo-card {
-    width: 300px;
+    width: 350px;
     height: 320px;
     background: #383E35;
     margin: 15px 7px;
@@ -443,8 +443,8 @@
 
 
 .inspo-gallery-right {
-    height: 600px;
-    width: 675px;
+    height: 700px;
+    width: 750px;
     background: #4B593B;
     margin-top: 15px;
 }
