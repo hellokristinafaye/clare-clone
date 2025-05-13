@@ -388,8 +388,15 @@
 .inspo-nav {
     padding: 100px;
     display: flex;
+    /* justify-content: space-evenly; */
 }
 .inspo-text-container {
     display: block;
     text-align: center;
+    position: absolute;
+    
+}
+.inspo-btns {
+    position: absolute;
+    right: 100px;
 }
