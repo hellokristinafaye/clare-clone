@@ -412,6 +412,22 @@
     background: #383E35;
     margin: 15px;
 }
+.color-swatch {
+    display: flex;
+    background: white;
+    padding: 5px 8px;
+}
+.color-sample {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background: #4B5B56;
+}
+
+
+
+
+
 
 .inspo-gallery-right {
     height: 600px;
