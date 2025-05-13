@@ -401,6 +401,11 @@
     right: 100px;
 }
 
+.mini-inspo-card {
+    width: 300px;
+    height: 320px;
+    background: #383E35;
+}
 
 .inspo-gallery-right {
     height: 600px;
