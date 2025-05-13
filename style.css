@@ -412,7 +412,7 @@
 }
 .mini-inspo-card {
     width: 350px;
-    height: 320px;
+    height: 340px;
     background: #383E35;
     margin: 15px 7px;
 }
@@ -443,8 +443,9 @@
 
 
 .inspo-gallery-right {
-    height: 700px;
+    height: 695px;
     width: 750px;
     background: #4B593B;
     margin-top: 15px;
+    margin-left: 5px;
 }
