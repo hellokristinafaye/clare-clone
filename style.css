@@ -400,3 +400,10 @@
     position: absolute;
     right: 100px;
 }
+
+
+.inspo-gallery-right {
+    height: 600px;
+    width: 675px;
+    background: #4B593B;
+}
