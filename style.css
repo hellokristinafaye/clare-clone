@@ -415,6 +415,7 @@
     height: 340px;
     background: #383E35;
     margin: 15px 7px;
+    cursor: pointer;
 }
 .color-swatch {
     display: flex;
@@ -465,6 +466,7 @@
     background: #4B593B;
     margin-top: 15px;
     margin-left: 5px;
+    cursor: pointer;
 }
 .right {
     margin-top: 630px;
