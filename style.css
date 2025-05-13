@@ -416,12 +416,14 @@
     display: flex;
     background: white;
     padding: 5px 8px;
+    align-items: center;
 }
 .color-sample {
     height: 20px;
     width: 20px;
     border-radius: 50%;
     background: #4B5B56;
+    margin-right: 10px;
 }
 
 
