@@ -415,7 +415,7 @@
 .color-swatch {
     display: flex;
     background: white;
-    padding: 5px 8px;
+    padding: 8px 15px;
     align-items: center;
     border-radius: 5px;
     position: absolute;
@@ -430,7 +430,9 @@
     background: #4B5B56;
     margin-right: 10px;
 }
-
+.color-name {
+    font-size: 12px;
+}
 
 
 
