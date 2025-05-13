@@ -417,6 +417,10 @@
     background: white;
     padding: 5px 8px;
     align-items: center;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 200px;
+
 }
 .color-sample {
     height: 20px;
