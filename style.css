@@ -77,16 +77,21 @@
     text-decoration: none;
 }
 
+
+
+/* CTA Spring into a new hue section */
 .CTA-spring {
     display: flex;
 }
 .left {
-    width: 49%;
+    flex-basis: 49%;
 }
 .left-container {
-    padding: 300px 100px;
 
+    padding: 200px 150px;
 }
+
+/*
 .left-container h1 {
     font-size: 60px;
     font-weight:500;
@@ -106,9 +111,18 @@
 }
 
 .CTA-spring .right{
-    width: .5vw;
-    /* height: 1vh; */
+  
 }
+
+.img-placeholder-CTA {
+    background: var(--img-placeholder-1);
+    width: 500px;
+    height: 400px;
+} */
+
+
+
+
 
 .banner-grey {
     background: var(--light-grey);
