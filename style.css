@@ -87,11 +87,8 @@
     flex-basis: 49%;
 }
 .left-container {
-
     padding: 200px 150px;
 }
-
-/*
 .left-container h1 {
     font-size: 60px;
     font-weight:500;
@@ -100,6 +97,8 @@
     font-family:'Times New Roman', Times, serif;
     padding-top: 40px;
 }
+
+/*
 .left-container button {
     font-size: 12px;
     padding: 20px 80px;
