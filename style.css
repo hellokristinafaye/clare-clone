@@ -84,14 +84,15 @@
 .CTA-spring {
     display: flex;
     align-items: center;
-    padding: 100px;
+    justify-content: space-between;
+    /* padding: 100px; */
 }
 .left {
     flex-basis: 40%;
 }
-.left-container {
-    /* padding: 200px 0; */
-}
+/* .left-container {
+    padding: 200px 0;
+} */
 .left-container h1 {
     font-size: 60px;
     font-weight:500;
@@ -110,8 +111,8 @@
 }
 .right {
     background: var(--img-placeholder-1);
-    /* width: 500px;
-    height: 400px; */
+    width: 500px;
+    height: 400px;
     /* flex-basis: 30%;  */
 } 
 
