@@ -111,8 +111,8 @@
 }
 .right {
     background: var(--img-placeholder-1);
-    width: 500px;
-    height: 400px;
+    /* width: 500px;
+    height: 400px; */
     /* flex-basis: 30%;  */
 } 
 
