@@ -536,7 +536,14 @@ footer {
     display: flex;
     flex-direction: column;
 }
+.link-list h6 {
+    margin: 10px 0;
+    font-weight: 400;
+    letter-spacing: .1rem;
+}
 .link-list a {
     color: white;
     text-decoration: none;
+    font-size: 12px;
+    margin-top: 20px;
 }
