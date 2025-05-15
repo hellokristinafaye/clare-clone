@@ -520,5 +520,6 @@ footer {
 .text-container input {
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
+    border: none;
+    outline: none;
 }
