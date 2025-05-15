@@ -500,4 +500,8 @@ footer {
 .text-container {
     display: block;
     text-align: center;
+    padding: 50px;
+}
+.text-container h2 {
+    letter-spacing: .1rem;
 }
