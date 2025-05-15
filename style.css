@@ -492,3 +492,12 @@
 #right-sample {
     background: #637153;
 } 
+
+footer {
+    background: var(--dark-color);
+    color: white;
+}
+.text-container {
+    display: block;
+    text-align: center;
+}
