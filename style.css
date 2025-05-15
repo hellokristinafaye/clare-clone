@@ -505,3 +505,8 @@ footer {
 .text-container h2 {
     letter-spacing: .1rem;
 }
+.text-container p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 20px 0;
+}
